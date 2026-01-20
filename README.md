@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicola</h1>
 <h3 align="center">Passionate full-stack developer 👨🏻‍💻</h3>
-
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
+	</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolaro&label=Profile%20views&color=0e75b6&style=flat" alt="nicolaro" /> </p>
 
 - 👨🏻‍🎓 I’m currently graduating in [Full stack development](https://www.start2impact.it/)
